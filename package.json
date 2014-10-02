@@ -1,0 +1,10 @@
+{
+  "name": "buckets-toggle",
+  "version": "0.0.1",
+  "description": "Toggle Field for Buckets",
+  "main": "index.coffee",
+  "scripts": {},
+  "author": {
+    "name": "Derek Kuschel"
+  }
+}
